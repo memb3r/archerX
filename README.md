@@ -28,6 +28,7 @@
   - [Libraries](https://github.com/memb3r/archerX/#libraries)
   - [Commands](https://github.com/memb3r/archerX/#commands)
 - [Plans](https://github.com/memb3r/archerX/#plans)
+- [Tested on](https://github.com/memb3r/archerX/#tested-on)
 - [License](https://github.com/memb3r/archerX/#license)
 
 # About
