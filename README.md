@@ -15,12 +15,12 @@
 - [Content](https://github.com/memb3r/archerX/#content)
 - [About](https://github.com/memb3r/archerX/#about)
 - [Installation](https://github.com/memb3r/archerX/#installation)
-  - [Windows](https://github.com/memb3r/archerX/###windows)
-  - [Linux](https://github.com/memb3r/archerX/###linux)
+  - [Windows](https://github.com/memb3r/archerX/#windows)
+  - [Linux](https://github.com/memb3r/archerX/#linux)
 - [Usage](https://github.com/memb3r/archerX/#usage)
-  - [APIs](https://github.com/memb3r/archerX/###apis)
-  - [Libraries](https://github.com/memb3r/archerX/###libraries)
-  - [Commands](https://github.com/memb3r/archerX/###commands)
+  - [APIs](https://github.com/memb3r/archerX/#apis)
+  - [Libraries](https://github.com/memb3r/archerX/#libraries)
+  - [Commands](https://github.com/memb3r/archerX/#commands)
 - [License](https://github.com/memb3r/archerX/#license)
 
 # About
