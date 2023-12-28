@@ -10,11 +10,18 @@
    <img src="https://img.shields.io/badge/version-1.12.3-red"> <img src="https://img.shields.io/badge/lang-python-blue?logo=python"> <img src="https://img.shields.io/badge/plat-linux-yellow?logo=linux"> <img src="https://img.shields.io/badge/plat-windows-blue?logo=windows"> <img src="https://img.shields.io/badge/license-MIT-green?logo=mit">
 </p>
 
+# Content
 
-<p align="center">
-  <a href="https://github.com/memb3r/archerX/#about">About</a>  ·  <a href="https://github.com/memb3r/archerX/#installation">Installation</a>  ·   <a href="https://github.com/memb3r/archerX/#usage">Usage</a>  ·  <a href="https://github.com/memb3r/archerX/#license">License</a>
-</p>
-
+- [Content](https://github.com/memb3r/archerX/#content)
+- [About](https://github.com/memb3r/archerX/#about)
+- [Installation](https://github.com/memb3r/archerX/#installation)
+  - [Windows](https://github.com/memb3r/archerX/###windows)
+  - [Linux](https://github.com/memb3r/archerX/###linux)
+- [Usage](https://github.com/memb3r/archerX/#usage)
+  - [APIs](https://github.com/memb3r/archerX/###apis)
+  - [Libraries](https://github.com/memb3r/archerX/###libraries)
+  - [Commands](https://github.com/memb3r/archerX/###commands)
+- [License](https://github.com/memb3r/archerX/#license)
 
 # About
 
@@ -41,7 +48,9 @@ For running this project you need to install <code>python</code> and <code>pip</
 ```bash
 cd archerX
 ```
-### Linux (using apt)
+### Linux
+
+In this example we are using `apt`, that uses in Ubuntu, Debian, Linux Mint, Kali Linux.
 
 1. First, you need to install <code>python3</code>, <code>python3-pip</code>. Open terminal and do this:
 
@@ -68,9 +77,13 @@ cd archerX
 
 # Usage
 
+### APIs
+
 Now you need to setup your <b>LeakCheck API</b> if you want to use program fully. You can get your API here - https://wiki.leakcheck.io/ru/api.
 
 Lines with API variables - 493, 533.
+
+### Libraries
 
 After opening the project, it will install libraries automaticly. If you have troubles, you can install libraries automaticly. Libraries list:
 ```
