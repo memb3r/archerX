@@ -85,3 +85,9 @@ To open python file, use this (working on Windows and Linux too):
 ```bash
 python3 archerx.py
 ```
+
+---
+
+# License
+
+This project use [MIT License](LICENSE).
