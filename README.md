@@ -14,6 +14,8 @@
 
 - [Content](https://github.com/memb3r/archerX/#content)
 - [About](https://github.com/memb3r/archerX/#about)
+  - [Information](https://github.com/memb3r/archerX/#information)
+  - [Preview](https://github.com/memb3r/archerX/#preview)
 - [Installation](https://github.com/memb3r/archerX/#installation)
   - [Windows](https://github.com/memb3r/archerX/#windows)
   - [Linux](https://github.com/memb3r/archerX/#linux)
@@ -25,10 +27,16 @@
 
 # About
 
+### Information
+
 ArcherX - powerful OSINT-multitool with different and useful tools like IP lookup, port scanner, WHOIS lookup and more. Also, ArcherX is a mix of my previous projects like [archer](https://www.github.com/memb3r/archer), [webrover](https://www.github.com/memb3r/webrover) and [ontotool](https://www.github.com/memb3r/ontotool).
 
 > [!WARNING]
 > This project was created for entertainment purposes and has no intention of harming anyone.
+
+### Preview
+
+<img src="images/preview.png">
 
 ---
 
