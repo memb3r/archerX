@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/memb3r/archerX/#about">About</a>  ·  <a href="https://github.com/memb3r/archerX/#installation">Installation</a>  ·  <a href="https://github.com/memb3r/archerX/#license">License</a>
+  <a href="https://github.com/memb3r/archerX/#about">About</a>  ·  <a href="https://github.com/memb3r/archerX/#installation">Installation</a>  ·   <a href="https://github.com/memb3r/archerX/#usage">Usage</a>  ·  <a href="https://github.com/memb3r/archerX/#license">License</a>
 </p>
 
 
@@ -40,4 +40,48 @@ For running this project you need to install <code>python</code> and <code>pip</
 4. Now go into <b>PowerShell</b> and go into your repository folder using this command:
 ```bash
 cd archerX
+```
+### Linux (using apt)
+
+1. First, you need to install <code>python3</code>, <code>python3-pip</code>. Open terminal and do this:
+
+```bash
+sudo apt install python3 python3-pip
+```
+
+2. Now download ZIP file of this repo and unpack it.
+
+>[!TIP]
+>You can also use git to download repos faster.
+>```bash
+>sudo apt install git # Installing git
+>
+>git clone https://github.com/memb3r/archerX # Cloning repo
+>```
+
+3. Go to repo folder:
+```bash
+cd archerX
+```
+
+---
+
+# Usage
+
+Now you need to setup your <b>LeakCheck API</b> if you want to use program fully. You can get your API here - https://wiki.leakcheck.io/ru/api.
+
+Lines with API variables - 493, 533
+
+After opening the project, it will install libraries automaticly. If you have troubles, you can install libraries automaticly. Libraries list:
+```
+geopy
+phonenumbers
+requests
+beautifulsoup4
+python-whois
+```
+
+To open python file, use this (working on Windows and Linux too):
+```bash
+python3 archerx.py
 ```
