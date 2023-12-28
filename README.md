@@ -27,6 +27,7 @@
   - [APIs](https://github.com/memb3r/archerX/#apis)
   - [Libraries](https://github.com/memb3r/archerX/#libraries)
   - [Commands](https://github.com/memb3r/archerX/#commands)
+- [Plans](https://github.com/memb3r/archerX/#plans)
 - [License](https://github.com/memb3r/archerX/#license)
 
 # About
@@ -130,6 +131,26 @@ python3 archerx.py
 - `clear` - Clear screen. Only banner stays.
 
 ---
+
+# Plans
+
+- [ ] Make all OSINT functions (In progress).
+- [X] Make libraries auto-install.
+- [ ] Make Google Collab version.
+- [ ] Make ArcherX Telegram bot (In progress).
+- [ ] Make Replit version.
+- [X] Test on Linux
+- [X] Test on Windows
+
+# Tested on
+
+ArcherX should work on all apt-based systems.
+
+| OS            | Tested        |
+| ------------- | ------------- |
+| Ubuntu 12     | True          |
+| Windows 11    | True          |
+| Other         | False         |
 
 # License
 
