@@ -70,7 +70,7 @@ cd archerX
 
 Now you need to setup your <b>LeakCheck API</b> if you want to use program fully. You can get your API here - https://wiki.leakcheck.io/ru/api.
 
-Lines with API variables - 493, 533
+Lines with API variables - 493, 533.
 
 After opening the project, it will install libraries automaticly. If you have troubles, you can install libraries automaticly. Libraries list:
 ```
@@ -85,6 +85,24 @@ To open python file, use this (working on Windows and Linux too):
 ```bash
 python3 archerx.py
 ```
+
+### Commands
+
+- `help` - Show help message.
+- `phone` - Phone number lookup. Using phonenumbers library.
+- `tg` - Telegram user info. (NOT WORKING)
+- `ip` - IP lookup. Using https://ipapi.co free API.
+- `github` - GitHub scraper. Using beautifulsoup4 scraping.
+- `sub` - Subdomain finder. (NOT WORKING)
+- `plate` - Ukraine car plane lookup. (NOT WORKING)
+- `user` - Username lookup. Using requests.
+- `email` - Email lookup. Using https://leakcheck.net API.
+- `whois` - WHOIS domain lookup. Using python-whois free API.
+- `faker` - Fake information generator. Using faker generator.
+- `port` - Port scanner. Using socket.
+- `dip` - Domain to IP. Using socket.
+- `ipd` - IP to domain. Using socket.
+- `clear` - Clear screen. Only banner stays.
 
 ---
 
