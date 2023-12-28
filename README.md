@@ -10,6 +10,10 @@
    <img src="https://img.shields.io/badge/version-1.12.3-red"> <img src="https://img.shields.io/badge/lang-python-blue?logo=python"> <img src="https://img.shields.io/badge/plat-linux-yellow?logo=linux"> <img src="https://img.shields.io/badge/plat-windows-blue?logo=windows"> <img src="https://img.shields.io/badge/license-MIT-green?logo=mit">
 </p>
 
+<p align="center">
+  1.12.3 (Stable)
+</p>
+
 # Content
 
 - [Content](https://github.com/memb3r/archerX/#content)
